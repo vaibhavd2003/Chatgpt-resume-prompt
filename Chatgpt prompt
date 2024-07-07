@@ -1,0 +1,51 @@
+{
+    "Name": "",
+    "Contact Information": {
+        "Email": "",
+        "Phone": "",
+        "LinkedIn": "",
+        "Address": ""
+    },
+    "Professional Summary": "",
+    "Work Experience": [
+        {
+            "Job Title": "",
+            "Company": "",
+            "Location": "",
+            "Start Date": "",
+            "End Date": "",
+            "Responsibilities": [
+                ""
+            ]
+        }
+    ],
+    "Education": [
+        {
+            "Degree": "",
+            "Institution": "",
+            "Location": "",
+            "Start Date": "",
+            "End Date": ""
+        }
+    ],
+    "Skills": [
+        ""
+    ],
+    "Certifications": [
+        {
+            "Name": "",
+            "Issuing Organization": "",
+            "Date": ""
+        }
+    ],
+    "Projects": [
+        {
+            "Title": "",
+            "Description": "",
+            "Technologies": [
+                ""
+            ]
+        }
+    ]
+}
+
